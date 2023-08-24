@@ -1,5 +1,6 @@
 # Example code for IMRT100 robot project
 
+hei
 
 # Import some modules that we need
 import imrt_robot_serial
